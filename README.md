@@ -35,3 +35,31 @@ E compilar ele através do compiler da linguagem python no visual Studio code pe
 saiba que você pode alterar o código fonte desse proxange por ser um material open source e você pode colocar seus próprios proxys privados para te trazer mais segurança`
 
 
+### Como Contribuir
+
+Quer ajudar a melhorar o projeto? Pull requests são bem-vindos! 🚀
+1️⃣ Fork o repositório
+
+Clique no botão "Fork" no topo da página e clone seu fork:
+
+git clone https://github.com/seu-usuario/tor-ip-changer.git
+cd tor-ip-changer
+
+2️⃣ Crie uma branch para sua feature
+
+git checkout -b minha-nova-feature
+
+3️⃣ Faça as alterações e commit
+
+git add .
+git commit -m "Adicionei uma nova funcionalidade"
+
+4️⃣ Envie para o seu fork
+
+git push origin minha-nova-feature
+
+5️⃣ Abra um Pull Request
+
+Vá até o repositório original, clique em "New Pull Request" e descreva suas mudanças.
+
+
