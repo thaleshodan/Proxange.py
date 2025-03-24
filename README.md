@@ -27,7 +27,7 @@ Instalação linux
 
 -------------------------------------------------
 
-###Instalação windows
+### Instalação windows
 
 Colar o código no vscode terminal 
 E compilar ele através do compiler da linguagem python no visual Studio code pelo próprio terminal em bash do visual code`
