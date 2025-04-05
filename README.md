@@ -1,65 +1,59 @@
-Projeto de ip changer feito em python para aumentar a segurança de uma máquina usando request através de uma URL de proxyschains socks5 de roteamento onion pelo tor e fazendo uso da tecnologia de  condições de if e else que dentro dos requests pegam esse proxyschains e trocam de tempos em tempos configurados pelo usuários em uma linha de cli e nisso o sistema fica protegido com o anonimato de inúmeros proxyschains configurados a máquina`
+*Título:* NiedProxy-v2
 
-socks5 uma conexão de Hotspot que faz o acesso a um servidor https que tem contato com a requisição de formatação do site e retorna o resultado da visualização para o usuário final que não teve acesso direto com o servidor,o socks5 serve também como intermediação das tecnologias de criptografia (tgl) (pgp) (ssh) e outras que geram camadas de segurança e anônimato`.
+*Descrição:* Projeto de IP changer desenvolvido em Python para aumentar a segurança de uma máquina usando request através de uma URL de proxies chains Socks5 de roteamento onion pelo Tor. Utiliza condições como if e else dentro dos requests para alternar os proxies periodicamente conforme configurado pelo usuário. Isso garante anonimato e segurança adicionais ao sistema.
 
--------------------------------------------------
+*Funcionalidades:*
 
+- Alternância periódica de proxies para anonimato.
+    
+- Suporte a tecnologias de criptografia como TLS, PGP e SSH.
+    
+- Capacidade de adicionar URLs de proxies privados.
+    
+- Código open source para personalização.
+    
 
-  código funciona com proxyschains open sources do projeto tor,mas pode ser aplicados url de proxys privados de outros servers e portas de rede diferentes em uma quantidade mais significativa que pode transmitir a rede de ponto de acesso por todo o mundo, fazendo assim uma camada de segurança mais alta ao usuário que quer ter sua privacidade preservada e anti vigilância` 
+*Instalação no Linux:*
 
+1. Clone o repositório: git clone {link_do_repositorio}
+    
+2. Instale as dependências: pkg install python sudo apt update && sudo apt upgrade
+    
+3. Navegue até o script e execute: python3 proxange.py
+    
 
-Instalação linux
+*Instalação no Windows:*
 
-`Git clone` { `link do repositório`}.          
+1. Copie o código para o VS Code.
+    
+2. Compile utilizando o interpretador Python no terminal do VS Code.
+    
 
-`Pkg install` `python` 
+*Nota:* Você pode modificar o código para adicionar proxies personalizados.
 
-`Sudo apt update`
+*Como Contribuir:*
 
-`Sudo apt upgrade` 
+1. Fork o repositório.
+    
+2. Clone seu fork: git clone https://github.com/seu-usuario/tor-ip-changer.git cd tor-ip-changer
+    
+3. Crie uma branch: git checkout -b minha-nova-feature
+    
+4. Faça as alterações e realize o commit: git add . git commit -m "Descrição da funcionalidade adicionada"
+    
+5. Envie as alterações para o seu fork: git push origin minha-nova-feature
+    
+6. Abra um Pull Request no repositório original.
+    
 
-`Ls`
+*Licença:* Este projeto é open source e pode ser modificado conforme necessário.
 
-`Cd proxange.py`
+*Contato:* Para dúvidas ou sugestões, abra uma issue no repositório.
 
-`Python3 proxange.py`
+*Tecnologias Utilizadas:*
 
-
--------------------------------------------------
-
-### Instalação windows
-
-Colar o código no vscode terminal 
-E compilar ele através do compiler da linguagem python no visual Studio code pelo próprio terminal em bash do visual code`
-
-saiba que você pode alterar o código fonte desse proxange por ser um material open source e você pode colocar seus próprios proxys privados para te trazer mais segurança`
-
-
-### Como Contribuir
-
-Quer ajudar a melhorar o projeto? Pull requests são bem-vindos! 🚀
-1️⃣ Fork o repositório
-
-Clique no botão "Fork" no topo da página e clone seu fork:
-
-git clone https://github.com/seu-usuario/tor-ip-changer.git
-cd tor-ip-changer
-
-2️⃣ Crie uma branch para sua feature
-
-git checkout -b minha-nova-feature
-
-3️⃣ Faça as alterações e commit
-
-git add .
-git commit -m "Adicionei uma nova funcionalidade"
-
-4️⃣ Envie para o seu fork
-
-git push origin minha-nova-feature
-
-5️⃣ Abra um Pull Request
-
-Vá até o repositório original, clique em "New Pull Request" e descreva suas mudanças.
-
-
+- Python
+    
+- Socks5
+    
+- Tor (Proxychains)
