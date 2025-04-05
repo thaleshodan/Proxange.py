@@ -24,15 +24,24 @@ pkg install python
 cd NiedProxy-v2
 python3 proxange.py
 
+
+
+```
+
+
+
 Windows
 
     Copie o código para o Visual Studio Code
 
     Execute com o interpretador Python:
 
-python proxange.py
+python NiedProxyV2.py
 
-Personalização
+
+
+
+## Personalização
 
 Você pode editar o código para adicionar listas personalizadas de proxies ou ajustar a lógica de alternância.
 Contribuindo
@@ -59,7 +68,10 @@ git push origin minha-nova-feature
 
     Abra um Pull Request
 
-Licença
+
+    
+
+## Licença
 
 MIT — sinta-se livre para usar, modificar e distribuir.
 Tecnologias
@@ -71,3 +83,4 @@ Tecnologias
     Tor (Proxychains)
 
     TLS / PGP / SSH
+
