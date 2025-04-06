@@ -3,7 +3,7 @@
 ---------------
 
 
-Nied-Proxy É um IP changer desenvolvido primeiramente em python, mas agora com  uma atualização que utiliza typescript. O Nied-proxys  utiliza proxies Socks5 com roteamento Onion (Tor) para aumentar o anonimato e a segurança de uma máquina Atraves Relays 14 eyes of web usando algoritmo de chaves AES 256-Bits e proteção de rede WRectb.Com isso alterna automaticamente os proxies com base em condições lógicas configuradas pelo usuário com uma liust de proxys Http e Socks moduláveis por uma interface feita através de  React Native e Typescript 
+Nied-Proxy É um IP changer desenvolvido primeiramente em python, mas agora com  uma atualização que utiliza typescript. O Nied-proxys  utiliza proxies Socks5 com roteamento Onion (Tor) para aumentar o anonimato e a segurança de uma máquina Atraves Relays 14 eyes of web usando algoritmo de chaves AES 256-Bits e proteção de rede WRectb. Com isso alterna automaticamente os proxies com base em condições lógicas configuradas pelo usuário com uma liust de proxys Http e Socks moduláveis por uma interface feita através de  React Native e Typescript 
 
 
 
