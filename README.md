@@ -33,11 +33,14 @@ IP changer desenvolvido primeiramente em python, mas gaora foi feito uma atualiz
 ### Linux
 
 ```bash
-git clone https://github.com/seu-usuario/NiedProxy-v2.git
-sudo apt update && sudo apt upgrade
-pkg install python
-cd NiedProxy-v2
-python3 proxange.py
+npm install -g typescript
+
+Ou local no projeto:
+
+npm install --save-dev typescript
+
+npx tsc
+
 
 
 
@@ -49,7 +52,17 @@ Windows
 
     Copie o código para o Visual Studio Code
 
-    Execute com o interpretador Python:
+    Execute com o interpretador typescript:
+    
+          npm install -g typescript
+
+          Ou local no projeto:
+ 
+          npm install --save-dev typescript
+
+         npx tsc
+
+    
 
 python NiedProxyV2.py
 
@@ -91,7 +104,7 @@ git push origin minha-nova-feature
 MIT — sinta-se livre para usar, modificar e distribuir.
 Tecnologias
 
-    Python
+    Typescript
 
     Socks5
 
