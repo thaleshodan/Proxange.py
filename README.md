@@ -49,10 +49,6 @@ npx tsc
 
 
 Windows
-
-    Copie o código para o Visual Studio Code
-
-    Execute com o interpretador typescript:
     
           npm install -g typescript
 
@@ -63,12 +59,6 @@ Windows
          npx tsc
 
     
-
-python NiedProxyV2.py
-
-
-
-
 ## Personalização
 
 Você pode editar o código para adicionar listas personalizadas de proxies ou ajustar a lógica de alternância.
