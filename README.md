@@ -1,6 +1,6 @@
 # NiedProxy-v2
 
-IP changer desenvolvido em Python que utiliza proxies Socks5 com roteamento Onion (Tor) para aumentar o anonimato e a segurança de uma máquina. Alterna automaticamente os proxies com base em condições lógicas configuradas pelo usuário.
+IP changer desenvolvido primeiramente em python, mas gaora foi feito uma atualização que utiliza typescript. O Nied-proxys  utiliza proxies Socks5 com roteamento Onion (Tor) para aumentar o anonimato e a segurança de uma máquina. Alterna automaticamente os proxies com base em condições lógicas configuradas pelo usuário por uma interface
 
 ---
 
